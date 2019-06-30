@@ -5,8 +5,9 @@
   "license": "MITNFA",
   "peerDependencies": {
     "babel-eslint": "^8.2.6",
-    "@ghadyani-framework/eslint-config-base": "^0.0.0"
+    "@ghadyani-framework/eslint-config-base": "^0.0.0",
     "eslint-plugin-compat": "^2.5.1",
+    "eslint-plugin-react": "^7.11.1",
     "react": "^16.4.1"
   }
 }
